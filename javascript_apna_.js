@@ -444,3 +444,4 @@
 //   console.log("fetching data 3.....")
 //   console.log(await getData(3))
 // })();
+console.log("hi")
